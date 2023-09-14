@@ -1,5 +1,9 @@
 # Toc-T1
 
+
+# El programa de la primera tarea es el siguiente:
+
+
 ```
 
 # Importamos las herramientas OR-Tools para la programacion lineal
@@ -38,3 +42,11 @@ if status == pywraplp.Solver.OPTIMAL:
 else:  
     print('El solver no ha encontrado una solución óptima.')
 ```
+
+
+
+
+# El link de la presentación del problema junto a la reflexión en latex es el siguiente:
+
+
+https://www.overleaf.com/read/sxpcqhsrhmfd

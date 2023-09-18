@@ -46,7 +46,3 @@ else:
 
 
 
-# El link de la presentación del problema junto a la reflexión en latex es el siguiente:
-
-
-https://www.overleaf.com/read/sxpcqhsrhmfd

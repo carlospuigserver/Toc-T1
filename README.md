@@ -1,5 +1,9 @@
 # Toc-T1
 
+Para la primera tarea del curso, la cual ha tenido que ver con el uso de la programación lineal para optimizar una serie de recursos, he llevado a cabo un análisis del problema y una reflexión sobre este en Látex, donde su respectivo pdf descargado está en el repositorio. También, orientado por el código del campus, he visto que esta técnica sí funciona y es efectiva, el cual te dejo a continuación:
+
+
+
 
 # El programa de la primera tarea es el siguiente:
 
